@@ -204,6 +204,19 @@ main h2 {
 .h2ll h2 {
     font-size: 1.875rem;
 }
+
+.h2ll2 h2 {
+    background: linear-gradient(to left top, #d3d4db3e 50%, #58585a3e 50%);
+    font-size: 1.25rem;
+}
+
+.subt h3 {
+    color: white;
+    padding-top: .625rem;
+    padding-left: 10px;
+    text-decoration: overline;
+}
+
 .sectionprincipala {
     background-color: rgba(0, 0, 0, 0.515);
     width: 100%;
