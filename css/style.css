@@ -193,6 +193,17 @@ main h2 {
     margin-left: .9375rem;
 }
 
+.estasemana1 {
+    color: white;
+    margin-left: 1.5625rem;
+}
+
+.estasemana2 {
+    color: white;
+    margin-top: 1.5625rem;
+    padding-top: .3125rem
+}
+
 /*llegadas*/
 .bgi .llegadash2  {
     background: linear-gradient(to left top, rgba(69, 41, 183, 0.284) 50%, #223caf3e 50%);
