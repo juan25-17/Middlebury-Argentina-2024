@@ -201,7 +201,14 @@ main h2 {
 .estasemana2 {
     color: white;
     margin-top: 1.5625rem;
-    padding-top: .3125rem
+    padding-top: .3125rem;
+    margin-left: .625rem;
+}
+
+.estasemana3 {
+    color: white;
+    margin-left: .625rem;
+    margin-top: .625rem;
 }
 
 /*llegadas*/
