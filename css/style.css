@@ -193,6 +193,15 @@ main h2 {
     margin-left: .9375rem;
 }
 
+.infoDirectores .nombres {
+    width: 100%; /* O un ancho mayor si ya tiene uno más pequeño */
+    text-align: left; /* Alinea el texto a la izquierda */
+    white-space: nowrap; /* Evita que el texto se divida en varias líneas */
+    overflow: hidden; /* Evita que el texto se desborde */
+    text-overflow: ellipsis; /* Si el texto es demasiado largo, agrega "..." */
+}
+
+
 .estasemana1 {
     color: white;
     margin-left: 1.5625rem;
