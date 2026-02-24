@@ -362,16 +362,14 @@ main h2 {
         font-size: 2.5rem;
     }
     .infoDirectores {
-        flex-direction: column;  /* Los pone uno debajo del otro */
-        align-items: center;     /* Centra todo */
+        flex-direction: column;
+        align-items: center;
     }
 
     .nombres {
-        width: 100%;             /* Ocupa todo el ancho */
-        text-align: center;      /* Centra el texto */
-        margin-bottom: 15px;     /* Espacio entre contactos */
+        width: 100%;
+        text-align: center;
     }
-
 }
 
 @media (max-width:425px) {
